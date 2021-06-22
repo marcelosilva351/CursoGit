@@ -9,6 +9,7 @@ namespace GitTeste
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Comit sem msg");
+            Console.WriteLine("Alteração relembrando commitar");
         }
     }
 }
